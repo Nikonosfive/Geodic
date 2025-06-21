@@ -16,10 +16,9 @@
 title: 地理の扉
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  ようこそ、地理の扉へ！高校地理探求（地理総合）のメモ置き場です。管理人は一般人ですので、内容に間違いが含まれている可能性があります。
-  現状雑に取りまとめているだけなので文体や内容の不統一はご容赦ください。
-twitter_username: nikonosfive
-github_username: Nikonosfive
+  Welcome to 地理の扉！
+twitter_username: 
+github_username: 
 minimal_mistakes_skin: default
 search: true
 
