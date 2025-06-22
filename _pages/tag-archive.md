@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "タグから探す"
 permalink: /tags/
 layout: tags
 author_profile: true
