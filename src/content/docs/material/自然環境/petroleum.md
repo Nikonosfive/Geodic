@@ -6,12 +6,11 @@ tableOfContents:
   minHeadingLevel: 2
   maxHeadingLevel: 4
 draft: false
-interface SidebarConfig {
+sidebar:
   label?: ;
   order?: 1;
   hidden?: false;
   badge?: New;
-}
 ---
 ## 概観  
 人間の生活にエネルギーは不可欠であり、工業化はさらなるエネルギー需要の拡大を促した。人間が用いるエネルギーは初期は人力や家畜、薪炭材、水力や風力が中心だったが次第に石炭や電力中心に移り変わった。このような動力の変遷を **エネルギー革命（動力革命）**とよび、特に1960年代における石炭から石油・天然ガスへの転換を指すことが多い。  
