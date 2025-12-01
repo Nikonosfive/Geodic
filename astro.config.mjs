@@ -30,6 +30,10 @@ export default defineConfig({
 					label: '地理資料集',
 					autogenerate: { directory: 'material' },
 				},
+				{
+					label: '産業',
+					autogenerate: { directory: 'material/industry' },
+				},
 			],
 		}),
 	],
