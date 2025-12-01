@@ -27,8 +27,8 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: '地理資料集',
+					autogenerate: { directory: 'material' },
 				},
 			],
 		}),
