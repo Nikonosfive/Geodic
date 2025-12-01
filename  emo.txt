@@ -1,0 +1,33 @@
+---
+template: splash
+hero:
+  tagline: ここにサイトのキャッチコピーを書きます。
+  image:
+    file: ../../assets/houston.webp
+  actions:
+    - text: 知識ベースを見る
+      link: /guides/my-note/
+      icon: right-arrow
+      variant: primary
+    - text: GitHubを見る
+      link: https://github.com/あなたのID/リポジトリ名
+      icon: external
+---
+
+## このサイトについて
+
+Card（カード）を使って、サイトの主要なカテゴリを並べることができます。
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid stagger>
+	<Card title="技術メモ" icon="pencil">
+		プログラミングやツールの使い方をまとめています。
+	</Card>
+	<Card title="読書記録" icon="open-book">
+		読んだ本の感想や要約です。
+	</Card>
+	<Card title="アイデア" icon="setting">
+		思いついたことのメモ書きです。
+	</Card>
+</CardGrid>
