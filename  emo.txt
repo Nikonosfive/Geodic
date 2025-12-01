@@ -31,3 +31,5 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 		思いついたことのメモ書きです。
 	</Card>
 </CardGrid>
+
+const isProd = process.env.NODE_ENV === 'production';
