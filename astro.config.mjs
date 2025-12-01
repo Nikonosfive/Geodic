@@ -10,6 +10,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: '地理の扉',
+			accentColor: 'green',
 			defaultLocale: 'root',
 			locales: {
 				root: {
